@@ -14,6 +14,10 @@ We build the infrastructure that enables people, teams, and AI agents to turn ma
 
 ---
 
+## Our mission
+
+> Our mission is to build the systems and technologies that enable financial intelligence to transcend institutions and borders, understand how time, risk, and value shape markets, and extend to everyone the power to understand and shape our financial future.
+
 ## Lowering the cost of intelligent market participation
 
 Financial markets run on a continuous chain:

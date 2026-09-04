@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="assets/open-byte-wordmark.png" alt="Open Byte" width="520">
+<img src="assets/open-byte-wordmark.png" alt="Open Byte Inc." width="560">
 
-# Open Byte Inc.
+### Building the financial infrastructure AI can safely use.
 
-### The open-source, AI-native operating system for financial markets.
+**We turn market intelligence into tested, governed, and executable strategies — for people, teams, and AI agents.**
 
-We build the infrastructure that enables people, teams, and AI agents to turn market intelligence into tested, governed, and executable strategies.
+[**Explore QuantDinger →**](https://github.com/OpenByteInc/QuantDinger) &nbsp;&nbsp; [Website](https://www.quantdinger.com) &nbsp;&nbsp; [Documentation](https://github.com/OpenByteInc/QuantDinger#readme) &nbsp;&nbsp; [Contact](mailto:support@quantdinger.com)
 
-[Explore QuantDinger](https://github.com/OpenByteInc/QuantDinger) &nbsp;|&nbsp; [Website](https://www.quantdinger.com) &nbsp;|&nbsp; [Get started](https://github.com/OpenByteInc/QuantDinger#readme) &nbsp;|&nbsp; [Contact](mailto:support@quantdinger.com)
-
-<sub>CLARITY FROM UNCERTAINTY</sub>
+<sub>OPEN SOURCE &nbsp;·&nbsp; AI-NATIVE &nbsp;·&nbsp; SELF-HOSTED &nbsp;·&nbsp; MULTI-MARKET</sub>
 
 </div>
 

@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/open-byte-wordmark.png" alt="Open Byte" width="520">
+
 # Open Byte Inc.
 
 ### The open-source, AI-native operating system for financial markets.
